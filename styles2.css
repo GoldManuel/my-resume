@@ -1,0 +1,45 @@
+.one{
+    height: 38em;
+    display: flex;
+    align-items: center;
+}
+.one .texts{
+    height: 50%;
+    width: 100%;
+    /* background-color: aqua; */
+}
+
+.one .texts a{
+    margin-right: 3%;
+}
+
+.two{
+    height: 38em;
+}
+
+.two img{
+    height: 100%;
+    width: 100%;
+}
+
+.two{
+    height: 30em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./pexels-photo-1181498-removebg-preview\ \(2\).png);
+    background-position: center;
+    background-position-y: -70px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#about .container .row div{
+    height: 20em;
+}
+
+#about .container .row .about-2{
+    background-image: url(./pexels-photo-3755755.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+} 
